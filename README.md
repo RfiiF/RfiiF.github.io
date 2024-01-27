@@ -1,4 +1,4 @@
 # Student 
 
 ### Education
-cihuahua, kpili jumping
+cihuahua, kipli jumping
