@@ -34,8 +34,6 @@ You can try playing the game by opening it using **Flowgorithm** :)
 
 
 ## Visit me on :
-LinkedIn : https://www.linkedin.com/in/rafiii/
+LinkedIn : [https://www.linkedin.com/in/rafiii/](https://www.linkedin.com/in/rafiii/)
 
-Instagram : https://www.instagram.com/raafi.i2/
-
-
+Instagram : [https://www.instagram.com/raafi.i2/](https://www.instagram.com/raafi.i2/)
