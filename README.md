@@ -15,11 +15,27 @@ I actively learn outside the curriculum and am excited to participate in small p
 
 ![first project html](assets/img/first_project_html.png)
 
-This is my first project using **HTML**. So a week ago I attended a mini bootcamp on front-end developers. The bootcamp was held for 4 days. In the bootcamp I was taught about the basics of css, html, and javascript. On the last day there was an assignment related to html and javascript. I created an html program by inputting a value between 1 and 100 and later the program will display the output on the console in the form of a number value, a letter value in the form of A, B, C, D (according to the grade classification), and identify whether the value is included in an even number or an odd number.
+This is my first project using **HTML**. So a week ago I attended a mini bootcamp on front-end developers. The bootcamp was held for 4 days. In the bootcamp I was taught about the basics of **css, html, and javascript**. On the last day there was an assignment related to **html and javascript**. I created an html program by inputting a value between 1 and 100 and later the program will display the output on the console in the form of a number value, a letter value in the form of A, B, C, D (according to the grade classification), and identify whether the value is included in an even number or an odd number.
 
 Thanks to dibimbing.id
 #DigitalSkillFair23 #Dibimbing
 
 ### My First Project Using Flowgorithm
+[Publication](https://github.com/RfiiF/Game-MathXercise)
+
+![first project flowgorithm](asseets/img/game.png)
+
+This is my first project using **Flowgorithm**. Here I try to make a game called MathXercise.
+MathXercise is a math game specially designed for kids to learn math in a fun and interactive way. This game offers an engaging learning experience while developing basic math skills.
+MathXercise is not just a game, but also an effective learning tool to help children develop their love for math early on. With its fun and interactive approach, MathXercise makes an ideal learning companion for young children.
+
+You can try playing the game by opening it using **Flowgorithm** :)
+
+
+
+## Visit me on :
+LinkedIn : https://www.linkedin.com/in/rafiii/
+
+Instagram : https://www.instagram.com/raafi.i2/
 
 
