@@ -23,7 +23,7 @@ Thanks to dibimbing.id
 ### My First Project Using Flowgorithm
 [Publication](https://github.com/RfiiF/Game-MathXercise)
 
-![first project flowgorithm](asseets/img/game.png)
+![first project flowgorithm](assets/img/game.png)
 
 This is my first project using **Flowgorithm**. Here I try to make a game called MathXercise.
 MathXercise is a math game specially designed for kids to learn math in a fun and interactive way. This game offers an engaging learning experience while developing basic math skills.
