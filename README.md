@@ -38,7 +38,7 @@ You can try playing the game by opening it using **Flowgorithm** :)
 ### My First Java Project
 [Publication](https://github.com/RfiiF/HealthyCore)
 
-![HealthyCore](assets/img/heatlhyCore.png)
+![HealthyCore](assets/img/healthyCore.png)
 
 HealthyCore is a comprehensive digital health program covering pregnancy & parenting, fitness, and mental health. Here, you can calculate your RHR (resting heart rate), BMI, and calorie needs. Not only that, but there are also features to check stress levels, anxiety disorders, and for early detection of depression. This program can even help calculate children's protein needs and detect iron deficiency anemia in kids.
 
