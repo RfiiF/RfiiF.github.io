@@ -3,7 +3,7 @@
 #### Profile : [linkedin.com/in/rafiii/](https://www.linkedin.com/in/rafiii/)
 
 ## Hi, my name is Rafi
-Hi, I am Rafii Firdaus, I am a technology enthusiast and I am currently a student majoring in Informatics Engineering at Semen Indonesia International University.
+Hi, I am Rafi Firdaus, I am a technology enthusiast and I am currently a student majoring in Informatics Engineering at Semen Indonesia International University.
 
 I am always looking for opportunities that allow me to use my interest in technology and AI and also to build relationships while allowing me to explore and learn.
 
