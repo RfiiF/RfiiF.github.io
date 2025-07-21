@@ -20,6 +20,8 @@ This is my first project using **HTML**. So a week ago I attended a mini bootcam
 Thanks to dibimbing.id
 #DigitalSkillFair23 #Dibimbing
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### My First Project Using Flowgorithm
 [Publication](https://github.com/RfiiF/Game-MathXercise)
 
@@ -30,6 +32,17 @@ MathXercise is a math game specially designed for kids to learn math in a fun an
 MathXercise is not just a game, but also an effective learning tool to help children develop their love for math early on. With its fun and interactive approach, MathXercise makes an ideal learning companion for young children.
 
 You can try playing the game by opening it using **Flowgorithm** :)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### My First Java Project
+[Publication](https://github.com/RfiiF/HealthyCore)
+
+![HealthyCore](assets/img/heatlhyCore.png)
+
+HealthyCore is a comprehensive digital health program covering pregnancy & parenting, fitness, and mental health. Here, you can calculate your RHR (resting heart rate), BMI, and calorie needs. Not only that, but there are also features to check stress levels, anxiety disorders, and for early detection of depression. This program can even help calculate children's protein needs and detect iron deficiency anemia in kids.
+
+This was my first Java programming project and it served as my final assignment for semester 2. I worked on it with my friend [Faiz Nurullah](https://www.linkedin.com/in/faiznurullah/) who's awesome at developing projects. I learned a lot from him, from authentication systems, adding accounts, to login and registration. This experience was truly invaluable!"
 
 
 
