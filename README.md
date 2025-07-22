@@ -51,7 +51,7 @@ You can try to run the program using Visual Studio Code, then run main.java
 ### My First Laravel Project
 [Publication](https://github.com/RafiiFirdaus/KiroftMuseum)
 
-![KiroftMuseum]()
+![KiroftMuseum](assets/img/kiroftMuseum.png)
 
 Kiroft Museum is a modern website built using Laravel version 12 to facilitate online museum ticket booking. The app provides a seamless user experience to explore various museums in Indonesia, make bookings, and manage their tickets. This website aims to digitize the museum ticket booking system.
 Provide complete information about museums in Indonesia, Simplify the booking and payment process, and Enhance the cultural tourism experience.
