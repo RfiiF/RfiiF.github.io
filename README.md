@@ -60,6 +60,20 @@ This was my first Laravel Blade project, and it served as my final assignment fo
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### “Bakaran Dua Hati” Cashier Website
+[Publication](https://github.com/Desphyr/WebsiteKasir)
+
+![POS-Website](assets/img/)
+
+This is the result of our final project during the 5th semester. This project is closely related to the courses in software engineering, software requirements analysis, and software project management. The project was carried out by four students, including myself as the project manager, [Dimas Setiawan](https://www.linkedin.com/in/dimas-setiawan-a03218212/) as the system analyst, [Rimbhiato Aurindra](https://www.linkedin.com/in/rimbhiatho-aurindra-9a89902a2/) as the UI/UX designer, and [Achmad Royhan Abdillah](https://www.linkedin.com/in/achmad-royhan-abdillah/) as the programmer. Everyone on my team fulfilled their respective roles. We developed this project in collaboration with our client, the owner of the small and medium-sized enterprise (SME) “Bakaran Dua Hati.” We designed the project according to the client’s preferences, from color selection and design to the features included in this point-of-sale website. Our client found this project helpful because their business has begun using digital devices and services to streamline in-store product sales transactions.
+
+Thank you to all the members of my team. You can visit their GitHub profiles below.
+[Achmad Royhan Abdillah](https://github.com/Desphyr)
+[Dimas Setiawan](https://github.com/dimassyz)
+[Rimbhiatho Aurindra](https://github.com/Rimbhiatho)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Visit me on :
 LinkedIn : [https://www.linkedin.com/in/rafiii/](https://www.linkedin.com/in/rafiii/)
 
