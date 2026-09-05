@@ -74,6 +74,16 @@ Thank you to all the members of my team. You can visit their GitHub profiles bel
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### My First Flutter Project
+[Publication](https://github.com/RafiiFirdaus/AplikasiBola_0024)
+
+![Amba-App](assets/img/Soccer_app.png)
+
+This is my first Flutter project. Here, I’m trying to build a mobile app that allows users to add soccer players. The app is very simple; it only features a home screen, and its content is still a work in progress. I created this app for an assignment in my mobile app programming course. On the home screen, there are features for logging in and registering an account. After that, the user is taken to the home screen. To add a new player, the user simply clicks the “Player” button. This will take them to the “Add New Player” page. After the user fills in all the player’s information, they will be redirected to the “Player Details” page.
+
+---
+
+
 ## Visit me on :
 LinkedIn : [https://www.linkedin.com/in/rafiii/](https://www.linkedin.com/in/rafiii/)
 
