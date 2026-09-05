@@ -83,6 +83,16 @@ This is my first Flutter project. Here, I’m trying to build a mobile app that 
 
 ---
 
+### "KirofTix" - Movie Ticket Booking App
+[Publication](https://github.com/RafiiFirdaus/utspam_IF-5B_0024_film)
+
+![KirofTix-app](assets/img/KirofTix.png)
+
+KirofTix is a Flutter (Dart)-based mobile app designed to make booking movie tickets convenient, featuring full CRUD operations implemented using the local Sqflite database. The app includes a secure authentication system with strict input validation, a dashboard page displaying a list of movies and their showtimes, and a real-time ticket price calculation feature that supports various payment methods. Through transaction history management, users can view securely masked order details (****), update the number of tickets, and instantly cancel orders, utilizing the intl and path_provider libraries for optimal data management.
+
+This app was created to fulfill the midterm exam requirement for a mobile app programming course. 
+
+---
 
 ## Visit me on :
 LinkedIn : [https://www.linkedin.com/in/rafiii/](https://www.linkedin.com/in/rafiii/)
